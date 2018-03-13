@@ -26,7 +26,7 @@ php artisan migrate
 
 If you need to rebuild assets:
 
-</pre>
+<pre>
 
 npm install --save
 
