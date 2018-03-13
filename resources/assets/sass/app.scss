@@ -1,0 +1,48 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.top-spacing {
+margin-top:20px;
+//border: 20px hidden ;
+margin-bottom:20px;
+background-colour:#eff;
+}
+
+.header-section {
+  background-color: #eff;
+  border: 20px solid #eff;
+}
+
+.authorised-section {
+  margin-left:20px;
+  border: 20px solid #efe;
+  background-color: #efe;
+}
+
+.note-posts {
+  margin-left:20px;
+}
+
+.footer-section {
+  margin-top:20px;
+  background-color: #eff;
+  border: 20px solid #eff;
+}
+
+.large-container {
+  float:left;
+  width: 100%;
+  max-width: 100%
+}
